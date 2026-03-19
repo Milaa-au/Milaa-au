@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Développeur Full-Stack en formation | 🔍 Recherche alternance | 🚀 Passionné par les nouvelles technologies | 🏉 Esprit d’équipe & rugby
+💻 Développeur Full-Stack en formation | 🔍 Recherche alternance | 🚀 Passionnée par les nouvelles technologies | 🏉 Esprit d’équipe & rugby
 
 
 ## 🌐 Socials:
