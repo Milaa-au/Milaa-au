@@ -1,5 +1,5 @@
 # 💫 About Me:
-Développeuse Full-Stack en formation (RNCP niveau 5). 👩‍💻
+Développeuse Full-Stack en formation. 👩‍💻
 Passionnée par les nouvelles technologies et les mathématiques. 💡
 En recherche d’une alternance en développement (Front-end / Back-end). 🚀
 
