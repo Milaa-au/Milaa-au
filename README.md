@@ -1,5 +1,13 @@
 # 💫 About Me:
-💻 Développeur Full-Stack en formation | 🔍 Recherche alternance | 🚀 Passionnée par les nouvelles technologies | 🏉 Esprit d’équipe & rugby
+Développeuse Full-Stack en formation (RNCP niveau 5). 👩‍💻
+Passionnée par les nouvelles technologies et les mathématiques. 💡
+En recherche d’une alternance en développement (Front-end / Back-end). 🚀
+
+Actuellement en formation intensive de Développeuse Full-Stack, dans un programme immersif de 1200 heures sur 9 mois, avec un apprentissage basé sur la pratique, les projets concrets et la résolution de problèmes.
+
+Ce parcours permet de développer des compétences solides en conception d’applications web, aussi bien côté front-end que back-end, tout en cultivant rigueur, autonomie et capacité d’adaptation.
+
+Forte envie d’apprendre, de progresser et de s’investir dans des projets réels au sein d’une équipe dynamique. Disponible pour échanger et répondre à toute question.
 
 
 ## 🌐 Socials:
